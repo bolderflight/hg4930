@@ -58,7 +58,7 @@ This library is within the namespace *bfs*.
 # Orientation
 Data is returned in the following orientation. Angular and angular rate data are returned as right-hand rotations about each axis.
 
-![HG4930 Orientation](img/orientation.png)
+<img src="img/orientation.png" alt="HG4930 Orientation" width="400"/>
 
 # Hg430
 
