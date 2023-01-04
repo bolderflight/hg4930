@@ -58,7 +58,7 @@ This library is within the namespace *bfs*.
 # Orientation
 Data is returned in the following orientation. Angular and angular rate data are returned as right-hand rotations about each axis. Please note that this is different that the orientation displayed in the [Honeywell HGuide Data Reader Software](https://aerospace.honeywell.com/us/en/products-and-services/product/hardware-and-systems/sensors/honeywell-hguide-data-reader-software), our orientation was rotated to ease integration for aeronautics applications.
 
-<img src="img/orientation.png" alt="HG4930 Orientation" width="200"/>
+<img src="img/orientation.png" alt="HG4930 Orientation" width="250"/>
 
 # Hg430
 
